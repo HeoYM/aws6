@@ -1,4 +1,5 @@
-//예시입니다.
+###예시입니다.
+```
 /aws6
 |-- /miniproject
 |   |-- /src
@@ -21,3 +22,4 @@
 |-- .gitignore
 |-- README.md
 |-- LICENSE
+```
